@@ -1,0 +1,6 @@
+curl -X POST "https://api.example.com/v3/users" \
+    -H "Content-Type: application/json" \
+    -d '{
+        "email": "fabricio@juarez.me.uk",
+        "password": "password123"
+    }'
