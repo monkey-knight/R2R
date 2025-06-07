@@ -6,7 +6,7 @@ For the complete look at the R2R JavaScript SDK, [visit our documentation.](http
 
 Before starting, make sure you have completed the [R2R installation](https://r2r-docs.sciphi.ai/documentation/installation/overview).
 
-Install the R2R JavaScript SDK:
+Install the R2R JavaScript SDK THIS IS MINE:
 
 ```bash
 npm install r2r-js
