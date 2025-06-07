@@ -1,4 +1,4 @@
-curl -X POST "https://api.example.com/v3/users" \
+curl -X POST "http://65.108.33.66:7272/v3/users" \
     -H "Content-Type: application/json" \
     -d '{
         "email": "fabricio@juarez.me.uk",
